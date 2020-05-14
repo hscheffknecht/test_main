@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c7a3f1f-2a9a-4faf-b5e1-9a28206cdd8a" name="Default" comment="Added test file">
+    <list default="true" id="9c7a3f1f-2a9a-4faf-b5e1-9a28206cdd8a" name="Default" comment="Deleted test 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531313177413</updated>
       <workItem from="1531313178467" duration="1088000" />
-      <workItem from="1589457125081" duration="2714000" />
+      <workItem from="1589457125081" duration="3345000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1589457348293</created>
@@ -113,7 +113,35 @@
       <option name="project" value="LOCAL" />
       <updated>1589459378722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added test file to sub 2">
+      <created>1589459909553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589459909553</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added test file to sub 2">
+      <created>1589460036655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589460036655</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deleted test 2">
+      <created>1589460058874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589460058874</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Deleted test 2">
+      <created>1589460068757</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589460068757</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,13 +171,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="Added test file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test file" />
+    <MESSAGE value="Added test file to sub 2" />
+    <MESSAGE value="Deleted test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted test 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="729" y="352" width="530" height="409" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589457150650">
+    <state x="729" y="352" width="589" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589459896907">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
-    <state x="729" y="352" width="530" height="409" key="#com.intellij.fileTypes.FileTypeChooser/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589457150650" />
+    <state x="729" y="352" width="589" height="416" key="#com.intellij.fileTypes.FileTypeChooser/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589459896907" />
     <state x="776" y="299" width="424" height="522" key="FileChooserDialogImpl" timestamp="1589459246920">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
@@ -162,10 +192,10 @@
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
     <state x="495" y="188" width="1007" height="737" key="SettingsEditor/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589458154032" />
-    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589459380443">
+    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589460079821">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
-    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589459380443" />
+    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589460079821" />
     <state x="780" y="466" width="438" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589457137135">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
