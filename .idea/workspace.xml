@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c7a3f1f-2a9a-4faf-b5e1-9a28206cdd8a" name="Default" comment="Added content to README.md">
+    <list default="true" id="9c7a3f1f-2a9a-4faf-b5e1-9a28206cdd8a" name="Default" comment="Added content to sub1/README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_sub1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_sub1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../local/eboxx_test/eboxx" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -76,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1531313177413</updated>
       <workItem from="1531313178467" duration="1088000" />
-      <workItem from="1589457125081" duration="4656000" />
+      <workItem from="1589457125081" duration="5399000" />
+      <workItem from="1589470502471" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1589457348293</created>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589461990346</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added content to sub1/README.md">
+      <created>1589462035537</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589462035537</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +190,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
@@ -189,17 +199,18 @@
     <MESSAGE value="Deleted test 2" />
     <MESSAGE value="Added test to submodule2" />
     <MESSAGE value="Added content to README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added content to README.md" />
+    <MESSAGE value="Added content to sub1/README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added content to sub1/README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="352" width="589" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589459896907">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
     <state x="729" y="352" width="589" height="416" key="#com.intellij.fileTypes.FileTypeChooser/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589459896907" />
-    <state x="776" y="299" width="424" height="522" key="FileChooserDialogImpl" timestamp="1589459246920">
+    <state x="776" y="299" width="424" height="522" key="FileChooserDialogImpl" timestamp="1589467051829">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
-    <state x="776" y="299" width="424" height="522" key="FileChooserDialogImpl/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589459246920" />
+    <state x="776" y="299" width="424" height="522" key="FileChooserDialogImpl/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589467051829" />
     <state x="748" y="214" width="491" height="685" key="RollbackChangesDialog" timestamp="1589457305485">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
@@ -208,10 +219,10 @@
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
     <state x="495" y="188" width="1007" height="737" key="SettingsEditor/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589458154032" />
-    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589461991949">
+    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589462037004">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
-    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589461991949" />
+    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589462037004" />
     <state x="780" y="466" width="438" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589457137135">
       <screen x="78" y="27" width="1842" height="1053" />
     </state>
