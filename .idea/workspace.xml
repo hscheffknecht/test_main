@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c7a3f1f-2a9a-4faf-b5e1-9a28206cdd8a" name="Default" comment="Test">
+      <change beforePath="$PROJECT_DIR$/test_sub1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_sub1/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test_sub1" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/hscheffknecht/test_main.git" />
+        <option value="https://github.com/hscheffknecht/test_sub1.git" />
+        <option value="https://github.com/hscheffknecht/test_sub2.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bth6hneAPex4bt3C6ljWU8bn0L" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c7a3f1f-2a9a-4faf-b5e1-9a28206cdd8a" name="Default" comment="" />
+      <created>1531313177413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531313177413</updated>
+      <workItem from="1531313178467" duration="1088000" />
+      <workItem from="1589457125081" duration="1223000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1589457348293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589457348293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="352" width="530" height="409" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589457150650">
+      <screen x="78" y="27" width="1842" height="1053" />
+    </state>
+    <state x="729" y="352" width="530" height="409" key="#com.intellij.fileTypes.FileTypeChooser/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589457150650" />
+    <state x="748" y="214" width="491" height="685" key="RollbackChangesDialog" timestamp="1589457305485">
+      <screen x="78" y="27" width="1842" height="1053" />
+    </state>
+    <state x="748" y="214" width="491" height="685" key="RollbackChangesDialog/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589457305485" />
+    <state x="495" y="188" width="1007" height="737" key="SettingsEditor" timestamp="1589458154032">
+      <screen x="78" y="27" width="1842" height="1053" />
+    </state>
+    <state x="495" y="188" width="1007" height="737" key="SettingsEditor/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589458154032" />
+    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589458331020">
+      <screen x="78" y="27" width="1842" height="1053" />
+    </state>
+    <state x="594" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589458331020" />
+    <state x="780" y="466" width="438" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589457137135">
+      <screen x="78" y="27" width="1842" height="1053" />
+    </state>
+    <state x="780" y="466" width="438" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589457137135" />
+    <state x="671" y="338" width="645" height="445" key="git4idea.merge.GitPullDialog" timestamp="1589458102800">
+      <screen x="78" y="27" width="1842" height="1053" />
+    </state>
+    <state x="671" y="338" width="645" height="445" key="git4idea.merge.GitPullDialog/78.27.1842.1053/1920.0.1920.1080@78.27.1842.1053" timestamp="1589458102800" />
+  </component>
+</project>
